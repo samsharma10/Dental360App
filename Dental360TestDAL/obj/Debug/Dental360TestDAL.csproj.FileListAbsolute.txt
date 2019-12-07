@@ -1,0 +1,11 @@
+\\Mac\Home\Desktop\ProjectTeam13Dental360\Dental360TestDAL\bin\Debug\Dental360TestDAL.dll.config
+\\Mac\Home\Desktop\ProjectTeam13Dental360\Dental360TestDAL\bin\Debug\Dental360TestDAL.dll
+\\Mac\Home\Desktop\ProjectTeam13Dental360\Dental360TestDAL\bin\Debug\Dental360TestDAL.pdb
+\\Mac\Home\Desktop\ProjectTeam13Dental360\Dental360TestDAL\bin\Debug\EntityFramework.dll
+\\Mac\Home\Desktop\ProjectTeam13Dental360\Dental360TestDAL\bin\Debug\EntityFramework.SqlServer.dll
+\\Mac\Home\Desktop\ProjectTeam13Dental360\Dental360TestDAL\bin\Debug\EntityFramework.xml
+\\Mac\Home\Desktop\ProjectTeam13Dental360\Dental360TestDAL\bin\Debug\EntityFramework.SqlServer.xml
+\\Mac\Home\Desktop\ProjectTeam13Dental360\Dental360TestDAL\obj\Debug\Dental360TestDAL.csprojAssemblyReference.cache
+\\Mac\Home\Desktop\ProjectTeam13Dental360\Dental360TestDAL\obj\Debug\Dental360TestDAL.csproj.CopyComplete
+\\Mac\Home\Desktop\ProjectTeam13Dental360\Dental360TestDAL\obj\Debug\Dental360TestDAL.dll
+\\Mac\Home\Desktop\ProjectTeam13Dental360\Dental360TestDAL\obj\Debug\Dental360TestDAL.pdb

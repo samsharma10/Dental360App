@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Operations Version="1.0" xmlns="http://schemas.microsoft.com/sqlserver/dac/Serialization/2012/02">
+  <Operation Name="Rename Refactor" Key="3004dc5f-a188-43fa-8a19-222db7cbdfe4" ChangeDateTime="11/18/2019 20:54:55">
+    <Property Name="ElementName" Value="[dbo].[Patient].[Id]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[Patient]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="P" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="daf203eb-30ae-4649-b095-ffdf0c618d92" ChangeDateTime="11/18/2019 20:55:03">
+    <Property Name="ElementName" Value="[dbo].[Patient].[P]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[Patient]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="PatientPhone" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="37e93f06-dc1f-41d0-a7c3-ea005b85f903" ChangeDateTime="11/18/2019 21:00:37">
+    <Property Name="ElementName" Value="[dbo].[Appointment].[Booking_ID]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[Appointment]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="BookingId" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="a324b504-b914-48d0-ab97-01df73491853" ChangeDateTime="11/18/2019 21:00:45">
+    <Property Name="ElementName" Value="[dbo].[Appointment].[Client_PhoneNumber]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[Appointment]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="PatientPhone" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="a870a927-f79e-4555-a6cb-a856f8b43f6b" ChangeDateTime="11/18/2019 21:00:50">
+    <Property Name="ElementName" Value="[dbo].[Appointment].[Service_ID]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[Appointment]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="ServiceId" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="88e3f84d-c459-4f8d-8c04-8473a504e146" ChangeDateTime="11/18/2019 21:00:55">
+    <Property Name="ElementName" Value="[dbo].[Appointment].[Staff_ID]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[Appointment]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="StaffId" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="b024db0a-d4b6-48c2-908d-037c650982c4" ChangeDateTime="11/18/2019 21:00:58">
+    <Property Name="ElementName" Value="[dbo].[Appointment].[Service_Date]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[Appointment]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="ServiceDate" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="2529a5f4-d302-4f48-b72f-788e88704040" ChangeDateTime="11/18/2019 21:01:02">
+    <Property Name="ElementName" Value="[dbo].[Appointment].[Service_StartTime]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[Appointment]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="ServiceStartTime" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="a27d2e19-7033-46af-91a5-d51a01ff814e" ChangeDateTime="11/18/2019 21:01:05">
+    <Property Name="ElementName" Value="[dbo].[Appointment].[Service_EndTime]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[Appointment]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="ServiceEndTime" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="24cfe242-393e-4ba2-b473-c412e7a12af3" ChangeDateTime="11/18/2019 21:01:10">
+    <Property Name="ElementName" Value="[dbo].[Appointment].[ServiceDate]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[Appointment]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="AppointmentDate" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="89c8868c-711e-4a9c-a921-6a02f9eddf0e" ChangeDateTime="11/18/2019 21:01:16">
+    <Property Name="ElementName" Value="[dbo].[Appointment].[ServiceStartTime]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[Appointment]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="AppointmentStartTime" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="ccf9cf82-e9d8-4de1-bfe4-e10b7b16b5be" ChangeDateTime="11/18/2019 21:01:24">
+    <Property Name="ElementName" Value="[dbo].[Appointment].[ServiceEndTime]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[Appointment]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="AppointmentEndTime" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="34b1de50-8372-45be-80ff-1307795f2200" ChangeDateTime="11/19/2019 08:33:16">
+    <Property Name="ElementName" Value="[dbo].[Staff].[StafEmail]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[Staff]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="StaffEmail" />
+  </Operation>
+</Operations>

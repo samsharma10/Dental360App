@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Staff>
+  <Staff>
+    <StaffId>1</StaffId>
+    <FirstName>Dr. Ravi</FirstName>
+    <LastName>Kumar</LastName>
+    <Email>ravikumar@gmail.com</Email>
+    <PhoneNumber>6045321162</PhoneNumber>
+  </Staff>
+  <Staff>
+    <StaffId>2</StaffId>
+    <FirstName>Dr. Jason</FirstName>
+    <LastName>Brown</LastName>
+    <Email>jasonbrown@gmail.com</Email>
+    <PhoneNumber>6046897902</PhoneNumber>
+  </Staff>
+  <Staff>
+    <StaffId>3</StaffId>
+    <FirstName>Dr. Stan</FirstName>
+    <LastName>Smith</LastName>
+    <Email>drstan@gmail.com</Email>
+    <PhoneNumber>6046282930</PhoneNumber>
+  </Staff>
+  <Staff>
+    <StaffId>4</StaffId>
+    <FirstName>Dr. Gavin</FirstName>
+    <LastName>Conedo</LastName>
+    <Email>gavinconedowork@gmail.com</Email>
+    <PhoneNumber>7789920992</PhoneNumber>
+  </Staff>
+  <Staff>
+    <StaffId>5</StaffId>
+    <FirstName>Dr. Harvey</FirstName>
+    <LastName>Evans</LastName>
+    <Email>harveyevans@gmail.com</Email>
+    <PhoneNumber>7787810292</PhoneNumber>
+  </Staff>
+  <Staff>
+    <StaffId>6</StaffId>
+    <FirstName>Dr. Aaliyah</FirstName>
+    <LastName>Kaur</LastName>
+    <Email>aaliyahk@gmail.com</Email>
+    <PhoneNumber>6044739608</PhoneNumber>
+  </Staff>
+  <Staff>
+    <StaffId>7</StaffId>
+    <FirstName>Dr. Navpreet</FirstName>
+    <LastName>Kaur</LastName>
+    <Email>navkaur32@gmail.com</Email>
+    <PhoneNumber>7784738359</PhoneNumber>
+  </Staff>
+  <Staff>
+    <StaffId>8</StaffId>
+    <FirstName>Dr. Fred</FirstName>
+    <LastName>White</LastName>
+    <Email>fredwhite@gmail.com</Email>
+    <PhoneNumber>6046763963</PhoneNumber>
+  </Staff>
+  <Staff>
+    <StaffId>9</StaffId>
+    <FirstName>Dr. Elena</FirstName>
+    <LastName>Chang</LastName>
+    <Email>drelenachang@gmail.com</Email>
+    <PhoneNumber>7780275639</PhoneNumber>
+  </Staff>
+  <Staff>
+    <StaffId>10</StaffId>
+    <FirstName>Dr. Adam</FirstName>
+    <LastName>Smith</LastName>
+    <Email>adamsmith@gmail.com</Email>
+    <PhoneNumber>6046937925</PhoneNumber>
+  </Staff>
+</Staff>

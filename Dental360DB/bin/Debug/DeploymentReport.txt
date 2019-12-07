@@ -1,0 +1,21 @@
+﻿** Highlights
+     Tables that will be rebuilt
+       None
+     Clustered indexes that will be dropped
+       None
+     Clustered indexes that will be created
+       None
+     Possible data issues
+       None
+
+** User actions
+     Create
+       [dbo].[Appointment] (Table)
+       [dbo].[Patient] (Table)
+       [dbo].[Service] (Table)
+       [dbo].[Staff] (Table)
+       [dbo].[FK_BookingDetails_ToClient] (Foreign Key)
+       [dbo].[FK_BookingDetails_ToService] (Foreign Key)
+       [dbo].[FK_BookingDetails_ToStaff] (Foreign Key)
+
+** Supporting actions

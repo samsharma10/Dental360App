@@ -1,0 +1,111 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Services>
+  <Services>
+    <ServiceId>1</ServiceId>
+    <ServiceName>Dental Examinations</ServiceName>
+    <Price>108.00</Price>
+    <TimeTaken>20</TimeTaken>
+  </Services>
+  <Services>
+    <ServiceId>2</ServiceId>
+    <ServiceName>Dental Crowns</ServiceName>
+    <Price>564.00</Price>
+    <TimeTaken>30</TimeTaken>
+  </Services>
+  <Services>
+    <ServiceId>3</ServiceId>
+    <ServiceName>Dental Sealants</ServiceName>
+    <Price>20.00</Price>
+    <TimeTaken>30</TimeTaken>
+  </Services>
+  <Services>
+    <ServiceId>4</ServiceId>
+    <ServiceName>Nutritional Consultation</ServiceName>
+    <Price>36.00</Price>
+    <TimeTaken>20</TimeTaken>
+  </Services>
+  <Services>
+    <ServiceId>5</ServiceId>
+    <ServiceName>Pediatric Dentistry</ServiceName>
+    <Price>30.00</Price>
+    <TimeTaken>45</TimeTaken>
+  </Services>
+  <Services>
+    <ServiceId>6</ServiceId>
+    <ServiceName>Dental Emergencies</ServiceName>
+    <Price>132.00</Price>
+    <TimeTaken>45</TimeTaken>
+  </Services>
+  <Services>
+    <ServiceId>7</ServiceId>
+    <ServiceName>Professional Dental Cleaning</ServiceName>
+    <Price>160.00</Price>
+    <TimeTaken>30</TimeTaken>
+  </Services>
+  <Services>
+    <ServiceId>8</ServiceId>
+    <ServiceName>Tooth (and Wisdom Tooth) Extractions</ServiceName>
+    <Price>116.00</Price>
+    <TimeTaken>45</TimeTaken>
+  </Services>
+  <Services>
+    <ServiceId>9</ServiceId>
+    <ServiceName>Dental Bridges</ServiceName>
+    <Price>300.00</Price>
+    <TimeTaken>30</TimeTaken>
+  </Services>
+  <Services>
+    <ServiceId>10</ServiceId>
+    <ServiceName>Oral Cancer Screening</ServiceName>
+    <Price>10.00</Price>
+    <TimeTaken>30</TimeTaken>
+  </Services>
+  <Services>
+    <ServiceId>11</ServiceId>
+    <ServiceName>Professional Fluoride Treatment</ServiceName>
+    <Price>20.00</Price>
+    <TimeTaken>45</TimeTaken>
+  </Services>
+  <Services>
+    <ServiceId>12</ServiceId>
+    <ServiceName>Root Canal</ServiceName>
+    <Price>376.00</Price>
+    <TimeTaken>30</TimeTaken>
+  </Services>
+  <Services>
+    <ServiceId>13</ServiceId>
+    <ServiceName>Tooth Coloured Dental Fillings</ServiceName>
+    <Price>116.00</Price>
+    <TimeTaken>25</TimeTaken>
+  </Services>
+  <Services>
+    <ServiceId>14</ServiceId>
+    <ServiceName>Dentures</ServiceName>
+    <Price>800.00</Price>
+    <TimeTaken>30</TimeTaken>
+  </Services>
+  <Services>
+    <ServiceId>15</ServiceId>
+    <ServiceName>Oral Hygiene Instructions</ServiceName>
+    <Price>36.00</Price>
+    <TimeTaken>15</TimeTaken>
+  </Services>
+  <Services>
+    <ServiceId>16</ServiceId>
+    <ServiceName>Dental Bonding</ServiceName>
+    <Price>170.00</Price>
+    <TimeTaken>60</TimeTaken>
+  </Services>
+  <Services>
+    <ServiceId>17</ServiceId>
+    <ServiceName>Dental Implants</ServiceName>
+    <Price>2256.00</Price>
+    <TimeTaken>120</TimeTaken>
+  </Services>
+  <Services>
+    <ServiceId>18</ServiceId>
+    <ServiceName>Orthodontic Treatment (Braces)</ServiceName>
+    <Price>500.00</Price>
+    <TimeTaken>60</TimeTaken>
+  </Services>
+</Services>

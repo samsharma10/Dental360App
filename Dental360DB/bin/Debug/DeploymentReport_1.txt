@@ -1,0 +1,28 @@
+﻿** Highlights
+     Tables that will be rebuilt
+       [dbo].[Appointment]
+     Clustered indexes that will be dropped
+       None
+     Clustered indexes that will be created
+       None
+     Possible data issues
+       The column [dbo].[Appointment].[BookingId] is being dropped, data loss could occur.
+
+** User actions
+     Rename
+       [dbo].[Staff].[StaffEmail] (Column)
+     Table rebuild
+       [dbo].[Appointment] (Table)
+
+** Supporting actions
+     Drop
+       [dbo].[FK_BookingDetails_ToClient] (Foreign Key)
+       [dbo].[FK_BookingDetails_ToService] (Foreign Key)
+       [dbo].[FK_BookingDetails_ToStaff] (Foreign Key)
+     Create
+       [dbo].[FK_BookingDetails_ToClient] (Foreign Key)
+       [dbo].[FK_BookingDetails_ToService] (Foreign Key)
+       [dbo].[FK_BookingDetails_ToStaff] (Foreign Key)
+
+The column [dbo].[Appointment].[BookingId] is being dropped, data loss could occur.
+
